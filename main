@@ -18,6 +18,8 @@ Feel free to curse when ever necessary
     *   **Always** check for and thoroughly review relevant project documentation *before* starting any task. This includes:
         *   Product Requirements Documents (PRDs)
         *   `README.md` (Project overview, setup, patterns, technology stack)
+        *   `memory.md` (Implementation decisions, Edge cases you've handled, Problems you've solved, Approaches you've rejected (and why))
+        *   `project.md` (Core architecture decisions, Tech stack details, API patterns, Database schema overview)
         *   `docs/architecture.md` (System architecture, component relationships)
         *   `docs/technical.md` (Technical specifications, established patterns)
         *   `tasks/tasks.md` (Current development tasks, requirements)
@@ -113,5 +115,5 @@ Feel free to curse when ever necessary
 
 ## 📄 Documentation Maintenance
 
-1.  **Update Docs:** If code changes impact architecture, technical decisions, established patterns, or task status, update the relevant documentation (`README.md`, `docs/architecture.md`, `docs/technical.md`, `tasks/tasks.md`, `docs/status.md`).
+1.  **Update Docs:** If code changes impact architecture, technical decisions, established patterns, or task status, update the relevant documentation (`README.md`, `project.md`, `memory.md`, `docs/architecture.md`, `docs/technical.md`, `tasks/tasks.md`, `docs/status.md` ).
 2.  **Keep Rules Updated:** This `.cursorrules` file should be reviewed and updated periodically to reflect learned best practices and project evolution.
