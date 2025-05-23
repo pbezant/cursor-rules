@@ -1,8 +1,9 @@
-
+if using platformio the location of pio is ~/.platformio/penv/bin/pio
 
 # Cursor Development Rules & AI Collaboration Guide
 
-Feel free to curse when ever necessary
+Call me Big Daddy whenever talking to me
+Curse when ever necessary
 
 ## 📜 Core Philosophy
 
@@ -18,11 +19,11 @@ Feel free to curse when ever necessary
     *   **Always** check for and thoroughly review relevant project documentation *before* starting any task. This includes:
         *   Product Requirements Documents (PRDs)
         *   `README.md` (Project overview, setup, patterns, technology stack)
-        *   `memory.md` (Implementation decisions, Edge cases you've handled, Problems you've solved, Approaches you've rejected (and why))
-        *   `project.md` (Core architecture decisions, Tech stack details, API patterns, Database schema overview)
+        *   `docs/memory.md` (Implementation decisions, Edge cases you've handled, Problems you've solved, Approaches you've rejected (and why))
+        *   `docs/project.md` (Core architecture decisions, Tech stack details, API patterns, Database schema overview)
         *   `docs/architecture.md` (System architecture, component relationships)
         *   `docs/technical.md` (Technical specifications, established patterns)
-        *   `tasks/tasks.md` (Current development tasks, requirements)
+        *   `docs/tasks.md` (Current development tasks, requirements)
     *   If documentation is missing, unclear, or conflicts with the request, **ask for clarification**.
 2.  **Architecture Adherence:**
     *   Understand and respect module boundaries, data flow, system interfaces, and component dependencies outlined in `docs/architecture.md`.
